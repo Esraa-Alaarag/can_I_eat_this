@@ -178,9 +178,9 @@ this.readAllergies();
                  changeState={this.changeState}
                  readAllergies={this.readAllergies}
                  />) }/>
-          <Route path="/Result/:upc" name="upc" component={Result}/>
-          <Route path="/history" exact component={() => (<History />) }/>
-          <Route path="/*" component={() => (<FourOFour />) }/>
+          <Route path="/can_I_eat_this/Result/:upc" name="upc" component={Result}/>
+          <Route path="/can_I_eat_this/history" exact component={() => (<History />) }/>
+          <Route path="/can_I_eat_this/*" component={() => (<FourOFour />) }/>
           <Footer />
         </Switch>
     </div>
