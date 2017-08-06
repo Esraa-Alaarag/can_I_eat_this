@@ -27,7 +27,7 @@ class Home extends Component {
       //this.getIngred(this.refs.barcode.value);
       {
         this.setState({ upc: this.refs.barcode.value});
-        window.location = `/result/${this.refs.barcode.value}`
+        window.location = `/can_I_eat_this/result/${this.refs.barcode.value}`
       }
     }
 
