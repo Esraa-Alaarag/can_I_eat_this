@@ -121,7 +121,6 @@ class Profile extends Component {
 							<h6>
 								Sesame <br />
 								Tahini <br />
-								Til<br />
 							</h6>
 							<h3><input className="issuesCheckbox" type="checkbox" name="wheat" ref="wheat"
 								checked={this.props.issues[8]} readOnly={this.props.readOnly} />Wheat</h3>
