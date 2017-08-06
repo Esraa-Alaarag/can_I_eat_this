@@ -2,7 +2,7 @@
   "name": "can-i-eat-this",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Esraa-Alaarag.github.io/can-I-eat-thisss",
+  "homepage": "https://esraa-alaarag.github.io/can_I_eat_this/",
   "dependencies": {
     "axios": "^0.16.1",
     "base64-img": "^1.0.3",
