@@ -130,7 +130,7 @@ class Row extends Component {
           <th className='icon'><img alt="peanut" src="/can_I_eat_this/images/icons/icons-blackandwhite/peanut-bw.png"/></th>
           <th className='icon'><img alt="sesame" src="/can_I_eat_this/images/icons/sesame-color.png"/></th>
           <th className='icon'><img alt="shellfish" src="/can_I_eat_this/images/icons/shellfish-color.png"/></th>
-          <th className='icon'><img alt="soy" src="/images/can_I_eat_this/icons/soy-color.png"/></th>
+          <th className='icon'><img alt="soy" src="/can_I_eat_this/images/icons/soy-color.png"/></th>
           <th className='icon'><img alt="treennut" src="/can_I_eat_this/images/icons/treenut-color.png"/></th>
           <th className='icon'><img alt="wheat" src="/can_I_eat_this/images/icons/wheat-color.png"/></th>
           <th className="titleRow">Can I eat this</th>
