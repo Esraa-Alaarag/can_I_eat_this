@@ -166,10 +166,10 @@ this.readAllergies();
     <div className="wrapper">
       <Navigation />
         <Switch>
-          <Route path="/" exact component={() => (<Home
+          <Route path="/can_I_eat_this" exact component={() => (<Home
                  grabData={this.grabData}
                  />) }/>
-          <Route path="/profile" exact component={() => (<Profile 
+          <Route path="/can_I_eat_this/profile" exact component={() => (<Profile 
                  addCheckboxes={this.addCheckboxes}
                  updateCheckboxes={this.updateCheckboxes}
                  userid={this.state.userid}
