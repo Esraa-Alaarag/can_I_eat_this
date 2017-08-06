@@ -6,7 +6,7 @@ class Navigation extends Component {
     return (
       <div className="nav">
         <div className="logo">
-          <a href="/"><img src="/can_I_eat_this/images/logo.png" alt="Logo" /></a>
+          <a href="/can_I_eat_this"><img src="/can_I_eat_this/images/logo.png" alt="Logo" /></a>
         </div>
     	  <nav>
     	     <ul>
