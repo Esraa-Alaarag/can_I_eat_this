@@ -124,15 +124,15 @@ class Row extends Component {
       <tbody className="historyRow">
         <tr>
           <th className="titleRow">Product</th>
-          <th className='icon'><img alt="egg" src="/images/icons/egg-color.png"/></th>
-          <th className='icon'><img alt="fish" src="/images/icons/fish-color.png"/></th>
-          <th className='icon'><img alt="milk" src="/images/icons/milk-color.png"/></th>
-          <th className='icon'><img alt="peanut" src="/images/icons/icons-blackandwhite/peanut-bw.png"/></th>
-          <th className='icon'><img alt="sesame" src="/images/icons/sesame-color.png"/></th>
-          <th className='icon'><img alt="shellfish" src="/images/icons/shellfish-color.png"/></th>
-          <th className='icon'><img alt="soy" src="/images/icons/soy-color.png"/></th>
-          <th className='icon'><img alt="treennut" src="/images/icons/treenut-color.png"/></th>
-          <th className='icon'><img alt="wheat" src="/images/icons/wheat-color.png"/></th>
+          <th className='icon'><img alt="egg" src="/can_I_eat_this/images/icons/egg-color.png"/></th>
+          <th className='icon'><img alt="fish" src="/can_I_eat_this/images/icons/fish-color.png"/></th>
+          <th className='icon'><img alt="milk" src="/can_I_eat_this/images/icons/milk-color.png"/></th>
+          <th className='icon'><img alt="peanut" src="/can_I_eat_this/images/icons/icons-blackandwhite/peanut-bw.png"/></th>
+          <th className='icon'><img alt="sesame" src="/can_I_eat_this/images/icons/sesame-color.png"/></th>
+          <th className='icon'><img alt="shellfish" src="/can_I_eat_this/images/icons/shellfish-color.png"/></th>
+          <th className='icon'><img alt="soy" src="/images/can_I_eat_this/icons/soy-color.png"/></th>
+          <th className='icon'><img alt="treennut" src="/can_I_eat_this/images/icons/treenut-color.png"/></th>
+          <th className='icon'><img alt="wheat" src="/can_I_eat_this/images/icons/wheat-color.png"/></th>
           <th className="titleRow">Can I eat this</th>
           <th className="titleRow">Action</th>
           <th className="titleRow">Picture</th>

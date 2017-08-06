@@ -84,15 +84,15 @@ class Profile extends Component {
 
 	render() {
 		const images = [
-			"/images/icons/egg-color.png",
-			"/images/icons/fish-color.png",
-			"/images/icons/milk-color.png",
-			"/images/icons/icons-blackandwhite/peanut-bw.png",
-			"/images/icons/sesame-color.png",
-			"/images/icons/shellfish-color.png",
-			"/images/icons/soy-color.png",
-			"/images/icons/treenut-color.png",
-			"/images/icons/wheat-color.png",
+			"/can_I_eat_this/images/icons/egg-color.png",
+			"/can_I_eat_this/images/icons/fish-color.png",
+			"/can_I_eat_this/images/icons/milk-color.png",
+			"/can_I_eat_this/images/icons/icons-blackandwhite/peanut-bw.png",
+			"/can_I_eat_this/images/icons/sesame-color.png",
+			"/can_I_eat_this/images/icons/shellfish-color.png",
+			"/can_I_eat_this/images/icons/soy-color.png",
+			"/can_I_eat_this/images/icons/treenut-color.png",
+			"/can_I_eat_this/images/icons/wheat-color.png",
 		];
 		// console.log(this.props.issues[0]);
 		return (
