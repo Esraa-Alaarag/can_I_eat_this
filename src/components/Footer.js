@@ -11,7 +11,7 @@ class Footer extends Component {
             "/can_I_eat_this/images/icons/peanut-color.png",
             "/can_I_eat_this/images/icons/sesame-color.png",
             "/can_I_eat_this/images/icons/shellfish-color.png",
-            "/can_I_eat_this/images/icons/soy-color.png",
+            "/can_I_eat_this/images/icons/shellfish-color.png",
             "/can_I_eat_this/images/icons/treenut-color.png",
             "/can_I_eat_this/images/icons/wheat-color.png",
             "/can_I_eat_this/images/logo.png",
