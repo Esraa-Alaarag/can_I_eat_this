@@ -170,7 +170,7 @@ Step 4: In history, the user can save their past products searched and preferenc
 
 </a>
 
-<a name="project">
+<a name="project"> 
 
 ## SEE THE PROJECT:
 
@@ -181,7 +181,7 @@ Database hosted on Heroku:
 - https://can-i-eat-this-api.herokuapp.com/
 - To access the products information: https://can-i-eat-this-api.herokuapp.com/api/information
 - To access the user issues: hhttps://can-i-eat-this-api.herokuapp.com/api/allergies
-- GitHub of database: https://github.com/esraa2525/canieatthis
+- GitHub of database: https://github.com/Esraa-Alaarag/API-can-I-eat-this.git
 
 ### Download Project & Install
 
